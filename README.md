@@ -2,7 +2,7 @@
 # About me
   - 🧔 My name is **Franco Cristaldo**
   - 🧉 I'm from and I live in **Buenos Aires, Argentina**
-  - 💻 **Systems Analysis Student (Coming soon)**
+  - 💻 **Software Engineer Student**
   - 🐧 Proud **Linux user**
 
 ## How to contact me
