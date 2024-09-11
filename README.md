@@ -5,5 +5,5 @@
   - 💻 **Software Engineer** student
   - 🐧 Proud **Linux user**
 
-## Contact me
+## How to contact me
   - 📧 francocristaldo2004@gmail.com
