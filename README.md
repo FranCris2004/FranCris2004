@@ -1,5 +1,5 @@
 
-# Whoami
+# whoami
   - 🧔 My name is **Franco Cristaldo**
   - 🧉 I'm from and I live in **Buenos Aires, Argentina**
   - 💻 **Software Engineer** student
